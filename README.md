@@ -15,3 +15,5 @@ After a first phase of data exploration and preprocessing, it was decided to fol
 The public dataset GTSRB (German Traffic Sign Recognition Benchmark ) is available on this [link](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html). 
 
 In detail we used the [GTSRB-Training_fixed](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB-Training_fixed.zip) for the training and validation sets and for testing purposes we selected the [GTSRB_Online-Test-Images-Sorted](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Online-Test-Images-Sorted.zip).
+
+With the model built from scratch, it was achieved a precision_test and recall_test of **97%**.
