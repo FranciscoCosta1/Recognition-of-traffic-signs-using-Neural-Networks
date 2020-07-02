@@ -8,7 +8,7 @@ Programming Language: **Python**
 
 Most relevant libraries used: **Pandas, Numpy, Tensorflow, Matplotlib, Seaborn, Sklearn...**
 
-Under the concept of Convolutional Neural Networks (**CNNs**), this project aims to answer a challenge usually faced in this growing industry: ### **the recognition of traffic signs**.
+Under the concept of Convolutional Neural Networks (**CNNs**), this project aims to answer a challenge usually faced in this growing industry: **the recognition of traffic signs**.
 
 After a first phase of data exploration and preprocessing, it was decided to follow two different approaches: one in which a model is built from scratch, and another using the pretrained model VGG16 (exploratory).
 
